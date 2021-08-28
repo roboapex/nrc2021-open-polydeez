@@ -1,6 +1,40 @@
 -
 Project 
--   
+-   Energy
+Although renewable energy sources have been appearing for the past decade, 
+they do have some drawbacks despite their benefits. Renewable energy is 
+classified as energy which is produced and can be replenished at a 
+sustainable rate, from a source that is inexhaustible. Thus, they appear to 
+be a solution to the energy problem as their impacts are less adverse than 
+those of fossil fuels. However, renewable energy has some drawbacks such as 
+flooding when building dams, harm to marine ecosystems when harnessing wave 
+or tidal energy and even contributing to pollution in the case of waste 
+solar panels. In our case, biofuels are only used once for conversion into 
+electricity, and we propose that the heat generated during the process be 
+used for electrical generation too.
+
+A large amount of food is wasted every year. However, we could use those 
+discarded food in order as biofuels to produce energy. The current concern 
+is that this would take food away from those who need it, those who might 
+not be able to afford food. However, we propose that we only use food that 
+is unfit for consumption, such as expired, or contaminated food. This is 
+still a huge amount, and they could be converted into biofuels. Using 
+biofuels could reduce the reliance on other forms of energy, which reduces 
+the risk of electricity deficit when one source is down. The conversion of 
+food into biofuels could take place in industrial areas, such as the Tuas 
+areas or Jurong Island in Singapore.
+
+However, burning the food gives out exhausts, which pollutes the environment. 
+Fortunately, we have come up with a solution. The exhausts would be 
+transported through pipes into a centralised area. When it accumulates, 
+the exhaust air would be able to move a turbine, moving a generator, and 
+eventually generate electricity.
+
+The exhaust is put in a tank and pressurised by packing a lot of the exhaust
+ together and enough for it to move turbines and generators
+
+We are Secondary Two students, and all have at least Two years of experience 
+of designing, coding and building robots.
 ------------------------
 -
 Additional
