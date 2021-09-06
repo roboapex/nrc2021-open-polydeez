@@ -24,7 +24,12 @@ the risk of electricity deficit when one source is down. The conversion of
 food into biofuels could take place in industrial areas, such as the Tuas 
 areas or Jurong Island in Singapore.
 
-However, burning the food gives out exhausts, which pollutes the environment. 
+We are Secondary Two students, and all have at least Two years of experience 
+of designing, coding and building robots.
+------------------------
+-
+Additional
+- However, burning the food gives out exhausts, which pollutes the environment. 
 Fortunately, we have come up with a solution. The exhausts would be 
 transported through pipes into a centralised area. When it accumulates, 
 the exhaust air would be able to move a turbine, moving a generator, and 
@@ -32,12 +37,5 @@ eventually generate electricity.
 
 The exhaust is put in a tank and pressurised by packing a lot of the exhaust
  together and enough for it to move turbines and generators
-
-We are Secondary Two students, and all have at least Two years of experience 
-of designing, coding and building robots.
-------------------------
--
-Additional
--
 -------------------------
 -
