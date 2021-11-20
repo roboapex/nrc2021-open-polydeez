@@ -29,7 +29,7 @@ of designing, coding and building robots.
 ------------------------
 -
 Additional
-- However, burning the food gives out exhausts, which pollutes the environment. 
+- eHowever, burning the food gives out exhausts, which pollutes the environment. 
 Fortunately, we have come up with a solution. The exhausts would be 
 transported through pipes into a centralised area. When it accumulates, 
 the exhaust air would be able to move a turbine, moving a generator, and 
